@@ -33,14 +33,5 @@ Yearly Amount Spent
 
 📌 Contributions & Feedback Welcome! 🚀
 
-🛠 Developed by [Your Name]
-🔗 GitHub Repository
-
+🛠 Developed by Majid Ali
 #DataScience #MachineLearning #Python #Ecommerce #LinearRegression #CustomerAnalytics
-
-
-
-
-
-
-
